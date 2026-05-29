@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# database
+prisma/dev.db
+prisma/*.db-journal
+
+# generated files
+src/generated/
+
+# env files
+.env
+.env.local
+.env*.local
+
+# misc
+.DS_Store
